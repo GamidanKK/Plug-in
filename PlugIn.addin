@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+       <Name>PlugIn</Name>
+       <FullClassName>PlugIn.Class1</FullClassName>
+       <Text>PlugIn</Text>
+       <Description>Places the Group at Particular Point</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>C:\C:\ProgramData\Autodesk\Revit\Addins\2021\PlugIn.dll</Assembly>
+       <AddInId>503fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>
